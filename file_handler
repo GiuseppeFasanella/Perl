@@ -1,0 +1,5 @@
+open(FIZZLE,"myfilename")
+open(FIZZLE,">myfilename") #create file
+open(FIZZLE,">>myfilename") #append to file
+open(FIZZLE, "| output-pipe-command"); #set up output filter
+open(FIZZLE,"input-pipe-command |") # set up input filter

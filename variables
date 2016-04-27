@@ -1,0 +1,6 @@
+$VAR #variabile scalare
+@VAR #array indexed by number
+%VAR #array indexed by string
+VAR  #file handler
+&VAR #subroutine
+*VAR #everything named VAR
