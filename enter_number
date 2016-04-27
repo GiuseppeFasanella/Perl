@@ -1,0 +1,4 @@
+#Run with perl enter_number
+print "Enter Hexadecimal Number: ";
+$answer =  <STDIN>;
+print hex($answer), "\n"; #hex: from hexadecimal to decimal
